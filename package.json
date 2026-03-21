@@ -4,6 +4,6 @@
   "main": "app.js",
   "scripts": {
     "start": "node .",
-    "test": "node test.js"
+    "test": "test.js"
   }
 }
